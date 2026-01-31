@@ -1,0 +1,7 @@
+{
+  "name": "Texpress Shopping",
+  "description": "A premium, multilingual e-commerce platform with dynamic product management, AI-enhanced descriptions, and real-time settings customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
